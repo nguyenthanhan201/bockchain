@@ -1,2 +1,2 @@
-set up PRIVATE_KEY and CONTRACT_ADDRESS: https://www.youtube.com/watch?v=PetgvHU9_CE
-reference video: https://www.youtube.com/watch?v=07V4cKv16iw
+- set up PRIVATE_KEY and CONTRACT_ADDRESS: https://www.youtube.com/watch?v=PetgvHU9_CE
+- reference video: https://www.youtube.com/watch?v=07V4cKv16iw
